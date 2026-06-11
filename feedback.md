@@ -1,4 +1,4 @@
-# lvht1203 (?/20)
+# lvht1203 (17/20)
 
 ## Hyperparameters (4/5)
 
@@ -10,7 +10,11 @@
 - ok! :)
 
 
-## Camera App (?/10)
+## Camera App (8/10)
 
 - filters implemented with AI (course-relevant computer visison) (-2)
-- could not run your code...the mediapipe version listed in your requirements.txt does not exist? Can you please show me the working program in the course so I can grade it?
+- ~~could not run your code...the mediapipe version listed in your requirements.txt does not exist? Can you please show me the working program in the course so I can grade it?~~
+
+edit:
+
+- gesture detection works pretty well
